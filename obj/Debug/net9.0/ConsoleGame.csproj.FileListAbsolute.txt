@@ -1,0 +1,15 @@
+C:\Users\arvid\OneDrive\ConsoleGame\bin\Debug\net9.0\ConsoleGame.exe
+C:\Users\arvid\OneDrive\ConsoleGame\bin\Debug\net9.0\ConsoleGame.deps.json
+C:\Users\arvid\OneDrive\ConsoleGame\bin\Debug\net9.0\ConsoleGame.runtimeconfig.json
+C:\Users\arvid\OneDrive\ConsoleGame\bin\Debug\net9.0\ConsoleGame.dll
+C:\Users\arvid\OneDrive\ConsoleGame\bin\Debug\net9.0\ConsoleGame.pdb
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\ConsoleGame.dll
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\refint\ConsoleGame.dll
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\ConsoleGame.pdb
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\ConsoleGame.genruntimeconfig.cache
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\ref\ConsoleGame.dll
+C:\Users\arvid\OneDrive\ConsoleGame\obj\Debug\net9.0\ConsoleGame.sourcelink.json
